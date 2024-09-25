@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ixi_flower</h1>
 <h3 align="center">birth : 2007 , start : 2019</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirabbasrouintan" alt="amirabbasrouintan" /></a> </p>
-
 - 🌱 I’m currently learning **docker & k8s, web servers, python**
 
 - ⚡ Fun fact **Hope :)**
