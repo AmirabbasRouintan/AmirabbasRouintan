@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **docker & k8s, web servers, python**
 
-- ⚡ Fun fact **Hope :)**
+- ⚡ **Hope :)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
