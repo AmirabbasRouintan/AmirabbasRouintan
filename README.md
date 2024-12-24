@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ixi_flower</h1>
 <h3 align="center">birth : 2007 , start : 2019</h3>
 
-- 🌱 I’m currently learning **docker & k8s, web servers, python, react**
-
-- ⚡ **Hope :)**
-
 <p align="left">
 </p>
 
