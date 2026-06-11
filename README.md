@@ -117,10 +117,7 @@
         <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark" />
         <br/>Wireshark
       </td>
-      <td align="center" width="100">
-        <img src="https://img.icons8.com/fluency/48/burp-suite.png" width="48" height="48" alt="Burp Suite" />
-        <br/>Burp Suite
-      </td>
+
     </tr>
   </table>
 </div>
