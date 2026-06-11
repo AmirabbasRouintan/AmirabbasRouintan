@@ -1,56 +1,129 @@
-<h1 align="center">Hi 👋, I'm ixi_flower</h1>
-<h3 align="center">Born in 2007, coding since 2019</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+ixi_flower;Born+in+2007%2C+coding+since+2019;Fullstack+Developer+%26+Designer" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirabbasrouintan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirabbasrouintan&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AmirabbasRouintan/AmirabbasRouintan/output/snake.svg" alt="Snake animation" />
+</div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+<br/>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<br/>
 
-###
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=amirabbasrouintan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FF69B4&text_color=9F9F9F" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirabbasrouintan&theme=radical&hide_border=true&background=0D1117&fire=FF69B4&ring=FF69B4&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirabbasrouintan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 
+  Languages & Tools
+</h2>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" />
+        <br/>Arduino
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+        <br/>Bash
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <br/>C#
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+        <br/>CSS3
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+        <br/>Django
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+        <br/>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+        <br/>Figma
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+        <br/>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+        <br/>HTML5
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
+        <br/>K8s
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <br/>Linux
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br/>Python
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://ixiflower.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/AmirabbasRouintan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirabbasrouintan&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views" />
+</div>
