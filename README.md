@@ -48,7 +48,6 @@
 
 <div align="center">
   <table>
-    <tr>
       <td align="center" width="100">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" />
         <br/>Arduino
